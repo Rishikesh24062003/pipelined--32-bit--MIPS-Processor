@@ -1,4 +1,4 @@
-# Design-of-a-pipelined--32-bit--MIPS-Processor
+# Design-of-a-Pipelined-32-bit-MIPS-Processor
 ### This repository contains Verilog Code for a Pipelined 32 bits MIPS Processor along with 3 testbenches.
 #### The following instruction set has been used along with the following opcodes
 
